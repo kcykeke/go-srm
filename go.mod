@@ -1,3 +1,3 @@
-module github.com/kcykeke/srm
+module  github.com/kcykeke/go-srm
 
 go 1.15
