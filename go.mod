@@ -1,3 +1,3 @@
-module go2012/srm
+module go2022/srm
 
 go 1.15
