@@ -1,3 +1,3 @@
-module go2022/srm
+module github.com/kcykeke/srm
 
 go 1.15
